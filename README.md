@@ -20,4 +20,4 @@ Full-stack developer building production-ready web applications. I focus on clea
 
 ---
 
-Open to opportunities | Cambodia
+Open to freelance opportunities.
