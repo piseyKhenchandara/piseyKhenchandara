@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Full-stack developer building **production-ready web applications**. I focus on clean architecture, real-world integrations, and shipping complete products that solve real problems.
 
@@ -33,20 +33,20 @@ const pisey = {
 <tr>
 <td width="50%">
 
-### 🛒 Asto Gear
+###  Asto Gear
 E-commerce platform with payment integration and real-time features
 
-**🔗 [Live Demo](https://astogear.com)**
+** [Live Demo](https://astogear.com)**
 
 **Tech:** React • Node.js • MySQL • Socket.io • Payment Gateway
 
 </td>
 <td width="50%">
 
-### 📰 Watch Border
+###  Watch Border
 Multi-language news platform with dynamic content management
 
-**🔗 [View Project](https://github.com/piseyKhenchandara/The-watch-border_showcase)**
+** [View Project](https://github.com/piseyKhenchandara/The-watch-border_showcase)**
 
 **Tech:** React • Express • Sequelize • Cloudinary
 
@@ -56,7 +56,7 @@ Multi-language news platform with dynamic content management
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Multi-language news platform with dynamic content management
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piseyKhenchandara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -96,7 +96,7 @@ Multi-language news platform with dynamic content management
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Multi-language news platform with dynamic content management
 
 <div align="center">
   
-### 💼 Open to Freelance Opportunities
+### Open to Freelance Opportunities
 
 **Let's build something amazing together!**
 
