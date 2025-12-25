@@ -1,16 +1,5 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=45&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Pisey+%F0%9F%91%8B;Full-Stack+Developer;Building+Real+Solutions)
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Freelance-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
-  <img src="https://komarev.com/ghpvc/?username=piseyKhenchandara&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
-
----
-
 ## About Me
 
 Full-stack developer building **production-ready web applications**. I focus on clean architecture, real-world integrations, and shipping complete products that solve real problems.
@@ -27,7 +16,7 @@ const pisey = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
