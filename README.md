@@ -4,7 +4,7 @@ Full-stack developer building production-ready web applications. I focus on clea
 
 ## Projects
 
-**[Asto Gear](https://github.com/piseyKhenchandara/astogear-showcase)** - E-commerce platform with payment integration and real-time features
+**[Asto Gear](https://astogear.com)** - E-commerce platform with payment integration and real-time features
 
 **[Watch Border](https://github.com/piseyKhenchandara/The-watch-border_showcase)** - Multi-language news platform
 
