@@ -1,6 +1,7 @@
-Hi! I'm Khenchandarapisey
+<h2 style="font-size: 3em;">Hi! I'm Pisey</h1>
 
-Full-stack developer building **production-ready web applications**. I focus on clean architecture, real-world integrations, and shipping complete products that solve real problems.
+**Full-Stack Developer** building production-ready web applications that solve real problems.
+I specialize in **clean architecture**, **real-world integrations**, and **shipping complete products** from concept to deployment.
 
 Live demo: Astogear — https://astogear.com
 
