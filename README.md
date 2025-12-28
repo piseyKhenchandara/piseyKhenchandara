@@ -1,3 +1,5 @@
+Hi! I'm Khenchandarapisey
+
 Full-stack developer building **production-ready web applications**. I focus on clean architecture, real-world integrations, and shipping complete products that solve real problems.
 
 Live demo: Astogear — https://astogear.com
