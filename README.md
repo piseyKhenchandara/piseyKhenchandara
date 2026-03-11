@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** building production-ready web applications that solve real problems. I specialize in **clean architecture**, **real-world integrations**, and **shipping complete products** from concept to deployment.
 
-**Live Demo:** Astogear — https://astogear.com 
+**Portfolio:** Astogear — https://piseykhen.dev
 
 ## Tech Stack
 
