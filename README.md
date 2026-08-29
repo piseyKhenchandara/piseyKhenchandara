@@ -1,5 +1,5 @@
 <h2 style="font-size: 3em;">Hi! I'm Pisey</h2>
-**Full-Stack Developer** building production-ready web applications that solve real problems, **clean architecture**.
+**Full-Stack Developer** building production-ready web applications that solve real-world problems with **clean architecture**.
 **Portfolio:** https://piseykhen.dev
 
 ## Tech Stack
